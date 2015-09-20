@@ -1,0 +1,14 @@
+apply plugin: 'eclipse'
+
+allprojects {
+    apply plugin: 'java'
+    apply plugin: 'eclipse'
+}
+
+subprojects {
+        
+    repositories {
+        mavenCentral()        
+    }
+        
+}
