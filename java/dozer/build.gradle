@@ -1,0 +1,4 @@
+
+dependencies {
+	compile 'net.sf.dozer:dozer:5.4.0'
+}
