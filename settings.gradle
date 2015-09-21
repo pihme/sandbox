@@ -1,3 +1,4 @@
 include 'java'
 include 'java:jubula'
 include 'java:dozer'
+include 'java:cloner'

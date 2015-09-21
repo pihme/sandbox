@@ -1,0 +1,5 @@
+dependencies {
+	compile project(':java:dozer');
+
+	compile 'uk.com.robust-it:cloning:1.9.2'	
+}
