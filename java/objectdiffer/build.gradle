@@ -1,0 +1,4 @@
+
+dependencies {
+	compile 'de.danielbechler:java-object-diff:0.93.2'	
+}
